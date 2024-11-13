@@ -8,4 +8,4 @@ pnpm i
 2. Zaženi projekt:
 ```
 pnpm dev
-```
+```# Grace-Kalkulator
