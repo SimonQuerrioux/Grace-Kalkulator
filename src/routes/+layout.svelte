@@ -11,6 +11,7 @@
 		<a href="/kalkulator" class={$page.url.pathname === '/kalkulator' ? 'font-bold' : ''}
 			>Kalkulator</a
 		>
+		<a href="/stevila" class={$page.url.pathname === '/stevila' ? 'font-bold' : ''}>Števila</a>
 	</div>
 </nav>
 
